@@ -73,6 +73,6 @@ text-unidecode==1.2
 toml==0.10.0
 tox==3.7.0
 Unidecode==1.0.23
-urllib3==1.25.7
+urllib3==1.25.9
 webencodings==0.5.1
 zipp==0.6.0
