@@ -76,3 +76,4 @@ Unidecode==1.0.23
 urllib3==1.25.7
 webencodings==0.5.1
 zipp==0.6.0
+django>=3.1.10 # not directly required, pinned by Snyk to avoid a vulnerability
