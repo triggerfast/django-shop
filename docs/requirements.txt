@@ -8,7 +8,7 @@ chardet==3.0.4
 coverage==4.5.2
 docutils==0.14
 filelock==3.0.10
-idna==2.8
+idna==3.7
 imagesize==1.1.0
 jinja2==2.10.3
 markupsafe==1.1.0
