@@ -75,4 +75,4 @@ tox==3.7.0
 Unidecode==1.0.23
 urllib3==1.25.7
 webencodings==0.5.1
-zipp==0.6.0
+zipp==3.19.1
